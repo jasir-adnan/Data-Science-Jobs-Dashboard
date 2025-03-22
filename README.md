@@ -1,5 +1,6 @@
 # Data-Science-Jobs-Dashboard
 A dynamic, interactive dashboard showcasing global data science job trends—analyzing salaries, locations, job types, and hiring platforms. Powered by a comprehensive dataset, it provides valuable insights to help professionals navigate the evolving job market with ease.
+![image](https://github.com/user-attachments/assets/d32f7ac2-1a59-417c-9581-cf81ca55de91)
 
 Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
