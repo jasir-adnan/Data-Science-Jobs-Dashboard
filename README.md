@@ -88,6 +88,8 @@ IF(
 🎯 User input is restricted to predefined, validated schedule types
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
+
+
 ![Data_Science_Jobs_Dashboard-Excel2025-03-2223-08-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2ceb82a-8293-40f9-8031-487eebfaccba)
 
 
