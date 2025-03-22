@@ -1,6 +1,7 @@
 # Data-Science-Jobs-Dashboard
 A dynamic, interactive dashboard showcasing global data science job trends—analyzing salaries, locations, job types, and hiring platforms. Powered by a comprehensive dataset, it provides valuable insights to help professionals navigate the evolving job market with ease.
-![image](https://github.com/user-attachments/assets/d32f7ac2-1a59-417c-9581-cf81ca55de91)
+![Main_frame-ezgif com-speed](https://github.com/user-attachments/assets/d76ac65f-fdda-44ac-85c2-269a5ce8e992)
+
 
 Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
@@ -33,7 +34,8 @@ Salary Dashboard Chart1
 📉 Data Organization: Sorted job titles by descending salary for improved readability.
 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 🗺️ Country Median Salaries - Map Chart
-1_Salary_Dashboard_Chart2.png
+![image](https://github.com/user-attachments/assets/a958a489-1c0b-4505-82a4-4274b13eb1a1)
+
 
 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
 🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.
@@ -57,11 +59,13 @@ IF(
 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 🍽️ Background Table
 
-1_Salary_Dashboard_Screenshot1.png
+![image](https://github.com/user-attachments/assets/0f8c1370-02c2-4720-89b1-e3525e4247f7)
+
 
 📉 Dashboard Implementation
 
-Salary Dashboard Title
+![image](https://github.com/user-attachments/assets/34801f55-e18a-450f-8eeb-1a75fdbaca10)
+
 
 ⏰ Count of Job Schedule Type
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
@@ -69,11 +73,12 @@ Salary Dashboard Title
 🔢 Formula Purpose: This formula populates the table below, which gives us a list of unique job schedule types.
 🍽️ Background Table
 
-1_Salary_Dashboard_Type.png
+![image](https://github.com/user-attachments/assets/074fa979-c3ad-41b8-ac3e-f6e37faa38ec)
 
 📉 Dashboard Implementation:
 
-Salary Dashboard Type
+![image](https://github.com/user-attachments/assets/f0e56d73-a60b-4553-851a-d390571bbb9f)
+
 
 ❎ Data Validation
 🔍 Filtered List
@@ -81,7 +86,8 @@ Salary Dashboard Type
 🎯 User input is restricted to predefined, validated schedule types
 🚫 Incorrect or inconsistent entries are prevented
 👥 Overall usability of the dashboard is enhanced
-Salary Dashboard Data Validation
+![Data_Science_Jobs_Dashboard-Excel2025-03-2223-08-52-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f2ceb82a-8293-40f9-8031-487eebfaccba)
+
 
 Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
